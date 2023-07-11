@@ -1,0 +1,348 @@
+VERSION				"1"
+FILENOTES			"Official FableServers Azza localized strings"
+
+REFERENCE           MOD_VERSION_SHORT
+LANG_ENGLISH        "1.0"
+
+REFERENCE           MOD_VERSION_LONG
+LANG_ENGLISH        "VERSION 1.0"
+
+REFERENCE           FABLESERVERS_MODNAME
+LANG_ENGLISH        "@FableServers: Azza"
+
+REFERENCE           TWITTER
+LANG_ENGLISH        "@FableServers"
+
+REFERENCE           TWITTER_CAPS
+LANG_ENGLISH        "@FABLESERVERS"
+
+REFERENCE           DISCORD
+LANG_ENGLISH        "discord.io/FableServers"
+
+REFERENCE           DISCORD_CAPS
+LANG_ENGLISH        "DISCORD.IO/FABLESERVERS"
+
+REFERENCE           DISCORD_SHORT
+LANG_ENGLISH        ".io/FableServers"
+
+REFERENCE           DISCORD_SHORT_CAPS
+LANG_ENGLISH        ".IO/FABLESERVERS"
+
+REFERENCE           FABLESERVERS_MOTD
+LANG_ENGLISH        "discord.io/FableServers"
+
+REFERENCE           FABLESERVERS_KILLS_UNTIL_LAST
+LANG_ENGLISH        "Kills until you are at last:^1 &&1"
+
+REFERENCE           FABLESERVERS_ALMOST_HITS
+LANG_ENGLISH        "Almost Hits:^3 &&1"
+
+REFERENCE           FABLESERVERS_REACHED_LAST
+LANG_ENGLISH        "You're at last.."
+
+REFERENCE           FABLESERVERS_REACHED_LAST_PITY
+LANG_ENGLISH        "You've been given pity last.."
+
+REFERENCE           FABLESERVERS_REACHED_LAST_CAPS
+LANG_ENGLISH        "YOU'RE AT LAST.."
+
+REFERENCE           AZZA_STARTING_IN
+LANG_ENGLISH        "Azza begins in..."
+
+REFERENCE           FABLESERVERS_MATCH_BEGINS_IN
+LANG_ENGLISH        "Match begins in..."
+
+REFERENCE           FABLESERVERS_ROUND_BEGINS_IN
+LANG_ENGLISH        "Round begins in..."
+
+REFERENCE           FABLESERVERS_WAITING_FOR_PLAYERS
+LANG_ENGLISH        "Waiting for more players to start round..."
+
+REFERENCE           TRICKSHOT_OPTIONS
+LANG_ENGLISH        "Trickshot Options"
+
+REFERENCE           TRICKSHOT_OPTIONS_CAPS
+LANG_ENGLISH        "TRICKSHOT OPTIONS"
+
+REFERENCE           TRICKSHOT_OPTIONS_EXECKEY
+LANG_ENGLISH        "Trickshot Options (^3T^7)"
+
+REFERENCE           IW4X_OPTIONS
+LANG_ENGLISH        "iW4x Options"
+
+REFERENCE           IW4X_OPTIONS_CAPS
+LANG_ENGLISH        "IW4X OPTIONS"
+
+REFERENCE           IW4X_OPTIONS_EXECKEY
+LANG_ENGLISH        "iW4x Options (^3O^7)"
+
+REFERENCE           MINI_MAP
+LANG_ENGLISH        "Open Mini Map"
+
+REFERENCE           MINI_MAP_EXECKEY
+LANG_ENGLISH        "Open Mini Map (^3M^7)"
+
+REFERENCE           MINI_MAP_CAPS
+LANG_ENGLISH        "OPEN MINI MAP"
+
+REFERENCE           MOD_MENU
+LANG_ENGLISH        "Mod Menu"
+
+REFERENCE           MOD_MENU_EXECKEY
+LANG_ENGLISH        "Mod Menu (^3F^7)"
+
+REFERENCE           MPUI_CHOOSE_CLASS_LOWER_EXECKEY
+LANG_ENGLISH        "Change Class (^3C^7)"
+
+REFERENCE           MOD_MENU_CAPS
+LANG_ENGLISH        "MOD MENU"
+
+REFERENCE           CLASS_EDITOR
+LANG_ENGLISH        "Class Editor"
+
+REFERENCE           CLASS_EDITOR_CAPS
+LANG_ENGLISH        "CLASS EDITOR"
+
+REFERENCE           CLASS_EDITOR_EXECKEY
+LANG_ENGLISH        "Class Editor (^3E^7)"
+
+REFERENCE           MPUI_CHOOSE_CLASS_LOWER
+LANG_ENGLISH        "Change Class"
+
+REFERENCE           PRESET_CLASSES_LOWER
+LANG_ENGLISH        "Preset Classes"
+
+REFERENCE           PRESET_CLASSES_CAPS
+LANG_ENGLISH        "PRESET CLASSES"
+
+REFERENCE           TAC_IS_GLOWSTICK
+LANG_ENGLISH        "Glowstick Replaces Tactical Insertion"
+
+REFERENCE           DROP_CURRENT
+LANG_ENGLISH        "DROP CURRENT GUN"
+
+REFERENCE           CANSWAP
+LANG_ENGLISH        "DROP CANSWAP"
+
+REFERENCE           DROP_CURRENT_LOWER
+LANG_ENGLISH        "Drop Current Gun"
+
+REFERENCE           CANSWAP_LOWER
+LANG_ENGLISH        "Drop Canswap"
+
+REFERENCE           EMPTY_LOWER
+LANG_ENGLISH        "Empty Mag"
+
+REFERENCE           REFILL_LOWER
+LANG_ENGLISH        "Refill Ammo"
+
+REFERENCE           EMPTY
+LANG_ENGLISH        "EMPTY MAG"
+
+REFERENCE           REFILL
+LANG_ENGLISH        "REFILL AMMO"
+
+REFERENCE           SAVE_LOWER
+LANG_ENGLISH        "Save Position"
+
+REFERENCE           LOAD_LOWER
+LANG_ENGLISH        "Load Position"
+
+REFERENCE           SAVE
+LANG_ENGLISH        "SAVE POSITION"
+
+REFERENCE           LOAD
+LANG_ENGLISH        "LOAD POSITION"
+
+REFERENCE           AUTOLOAD_LOWER
+LANG_ENGLISH        "Auto Load Saved Position"
+
+REFERENCE           AUTOLOAD
+LANG_ENGLISH        "AUTO LOAD SAVED POSITION"
+
+REFERENCE           CLEAR
+LANG_ENGLISH        "CLEAR SAVED POSITION"
+
+REFERENCE           CLEAR_LOWER
+LANG_ENGLISH        "Clear Saved Position"
+
+REFERENCE           TIMER_STATUS
+LANG_ENGLISH        "Timer Status"
+
+REFERENCE           INSTASWAPS_LOWER
+LANG_ENGLISH        "Instaswaps"
+
+REFERENCE           INSTASWAPS
+LANG_ENGLISH        "INSTASWAPS"
+
+REFERENCE           MAIN_MODS
+LANG_ENGLISH        "Main Mods"
+
+REFERENCE           KILLSTREAK_MENU
+LANG_ENGLISH        "Killstreak Menu"
+
+REFERENCE           BOLT_MENU
+LANG_ENGLISH        "Bolt Menu"
+
+REFERENCE           TELEPORT_MENU
+LANG_ENGLISH        "Teleport Menu"
+
+REFERENCE           AFTERHIT_MENU
+LANG_ENGLISH        "Afterhit Menu"
+
+REFERENCE           MALA_MENU
+LANG_ENGLISH        "Mala Menu"
+
+REFERENCE           VIP_MENU
+LANG_ENGLISH        "VIP Menu"
+
+REFERENCE           WEAPONS_MENU
+LANG_ENGLISH        "Weapons Menu"
+
+REFERENCE           BINDS_MENU
+LANG_ENGLISH        "Binds Menu"
+
+REFERENCE           HOST_MENU
+LANG_ENGLISH        "Host Menu"
+
+REFERENCE           SND_MENU
+LANG_ENGLISH        "S&D Menu"
+
+REFERENCE           GAME_MECHANICS
+LANG_ENGLISH        "Game Mechanics"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "Suicide"
+
+REFERENCE           SUICIDE_ICON
+LANG_ENGLISH        "Suicide :killiconfalling:"
+
+REFERENCE           SUICIDE_ICON_EXECKEY
+LANG_ENGLISH        "Suicide :killiconfalling: (^3S^7)"
+
+REFERENCE           SUICIDE_EXECKEY
+LANG_ENGLISH        "Suicide (^3S^7)"
+
+REFERENCE           SUICIDE_CAPS
+LANG_ENGLISH        "SUICIDE"
+
+REFERENCE           DTAP
+LANG_ENGLISH        "Double Tap"
+
+REFERENCE           VISH
+LANG_ENGLISH        "Vish"
+
+REFERENCE           UFO
+LANG_ENGLISH        "UFO Mode"
+
+REFERENCE           EB_STRENGTH
+LANG_ENGLISH        "EB Strength: ^3"
+
+REFERENCE           EMP_TIME
+LANG_ENGLISH        "EMP Time: ^3"
+
+REFERENCE           EMP_FLASH_TIME
+LANG_ENGLISH        "EMP Flash Time: ^3"
+
+REFERENCE           AIRSPACE_FULL
+LANG_ENGLISH        "Airspace Full"
+
+REFERENCE           EB_TYPE
+LANG_ENGLISH        "EB Type: ^3"
+
+REFERENCE           SMOOTH
+LANG_ENGLISH        "Smooth Actions"
+
+REFERENCE           INSTASHOOT
+LANG_ENGLISH        "Instashoot"
+
+REFERENCE           CANZOOM
+LANG_ENGLISH        "Canzoom"
+
+REFERENCE           SMOOTH_CANZOOM
+LANG_ENGLISH        "Smooth Canzoom"
+
+REFERENCE           ALWAYS_CANSWAP
+LANG_ENGLISH        "Always Canswap"
+
+REFERENCE           ALWAYS_CANSWAP_SPACE
+LANG_ENGLISH        "Always Canswap "
+
+REFERENCE           ALWAYS_SMOOTH_CANSWAP
+LANG_ENGLISH        "Always Smooth Canswap"
+
+REFERENCE           ALWAYS_SMOOTH_CANSWAP_SPACE
+LANG_ENGLISH        "Always Smooth Canswap "
+
+REFERENCE           TRICKSHOTTERS
+LANG_ENGLISH        "^2Trickshotters"
+
+REFERENCE           TRICKSHOTTERS_CAPS
+LANG_ENGLISH        "^2TRICKSHOTTERS"
+
+REFERENCE           BOTS
+LANG_ENGLISH        "^1Bots"
+
+REFERENCE           BOTS_CAPS
+LANG_ENGLISH        "^1Bots"
+
+REFERENCE           WEAPON_DSR50
+LANG_ENGLISH        "DSR-50"
+
+REFERENCE           WEAPON_L96A1
+LANG_ENGLISH        "L96A1"
+
+REFERENCE           WEAPON_TOMAHAWK
+LANG_ENGLISH        "Tomahawk"
+
+REFERENCE           WEAPON_RHTK
+LANG_ENGLISH        "Right Handed Throwing Knife"
+
+REFERENCE           RHTK
+LANG_ENGLISH        "Right Handed Throwing Knife"
+
+REFERENCE           WEAPON_CHEYTAC_AKIMBO
+LANG_ENGLISH        "Intervention Akimbo"
+
+REFERENCE           WEAPON_ZOMBIEHANDS
+LANG_ENGLISH        "BRAAAAINS.."
+
+REFERENCE           WEAPON_SHOCKCHARGE
+LANG_ENGLISH        "Shock Charge"
+
+REFERENCE           WEAPON_GLOWSTICK
+LANG_ENGLISH        "Glowstick"
+
+REFERENCE           WEAPON_FLARE_INSTANT_PLANT
+LANG_ENGLISH        "Instant Tac"
+
+REFERENCE           WEAPON_FLARE_DEFAULT
+LANG_ENGLISH        "Tactical Insertion"
+
+REFERENCE           WEAPON_RAYGUN
+LANG_ENGLISH        "RayGun"
+
+REFERENCE           WEAPON_RAYGUN_MKII
+LANG_ENGLISH        "RayGun MK-II"
+
+REFERENCE           MPUI_DESC_MAP_HIGHRISE_MINI
+LANG_ENGLISH        "Highrise, but mini..."
+
+REFERENCE           MENU_CHANGELOG_CAPS_COLORED
+LANG_ENGLISH        "^:CHANGELOG"
+
+REFERENCE           FABLESERVERS_MAPS
+LANG_ENGLISH        "@FableServers: Map Edits"
+
+REFERENCE           DESC_FABLESERVERS_MAPS
+LANG_ENGLISH        "Custom edited versions of iW4x Maps"
+
+REFERENCE           PREVIOUS_LOWER
+LANG_ENGLISH        "Previous [^3A^7]
+
+REFERENCE           NEXT_LOWER
+LANG_ENGLISH        "Next [^3D^7]
+
+ENDMARKER
+
+

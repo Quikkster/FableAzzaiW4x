@@ -1,0 +1,332 @@
+VERSION				"1"
+FILENOTES			"Official FableServers localized strings"
+
+REFERENCE           MOD_VERSION_SHORT
+LANG_ENGLISH        "V3.0"
+
+REFERENCE           MOD_VERSION_LONG
+LANG_ENGLISH        "VERSION 3.0"
+
+REFERENCE           FABLESERVERS_MODNAME_SNIPING
+LANG_ENGLISH        "@FableServers: Sniping"
+
+REFERENCE           FABLESERVERS_MODNAME_SNIPING_FFA
+LANG_ENGLISH        "@FableServers: FFA Sniping"
+
+REFERENCE           FABLESERVERS_MODNAME
+LANG_ENGLISH        "@FableServers: Sniper 1v1"
+
+REFERENCE           FABLESERVERS_MODNAME_VANILLA
+LANG_ENGLISH        "@FableServers: Vanilla Trickshotting"
+
+REFERENCE           FABLESERVERS_MODNAME_FFA
+LANG_ENGLISH        "@FableServers: FFA Trickshotting"
+
+REFERENCE           FABLESERVERS_MODNAME_FFA_VANILLA
+LANG_ENGLISH        "@FableServers: Vanilla FFA Trickshotting"
+
+REFERENCE           FABLESERVERS_MODNAME_SND
+LANG_ENGLISH        "@FableServers: S&D Trickshotting"
+
+REFERENCE           FABLESERVERS_MODNAME_SND_VANILLA
+LANG_ENGLISH        "@FableServers: Vanilla S&D Trickshotting"
+
+REFERENCE           TWITTER
+LANG_ENGLISH        "@FableServers"
+
+REFERENCE           TWITTER_CAPS
+LANG_ENGLISH        "@FABLESERVERS"
+
+REFERENCE           DISCORD
+LANG_ENGLISH        "discord.io/FableServers"
+
+REFERENCE           DISCORD_CAPS
+LANG_ENGLISH        "DISCORD.IO/FABLESERVERS"
+
+REFERENCE           DISCORD_SHORT
+LANG_ENGLISH        ".io/FableServers"
+
+REFERENCE           DISCORD_SHORT_CAPS
+LANG_ENGLISH        ".IO/FABLESERVERS"
+
+REFERENCE           FABLESERVERS_MOTD
+LANG_ENGLISH        "discord.io/FableServers"
+
+REFERENCE           FABLESERVERS_KILLS_UNTIL_LAST
+LANG_ENGLISH        "Kills until you are at last:^1 &&1"
+
+REFERENCE           FABLESERVERS_ALMOST_HITS
+LANG_ENGLISH        "Almost Hits:^3 &&1"
+
+REFERENCE           FABLESERVERS_REACHED_LAST
+LANG_ENGLISH        "You're at last.."
+
+REFERENCE           FABLESERVERS_REACHED_LAST_PITY
+LANG_ENGLISH        "You've been given pity last.."
+
+REFERENCE           FABLESERVERS_REACHED_LAST_CAPS
+LANG_ENGLISH        "YOU'RE AT LAST.."
+
+REFERENCE           FABLESERVERS_MATCH_BEGINS_IN
+LANG_ENGLISH        "Match begins in..."
+
+REFERENCE           FABLESERVERS_ROUND_BEGINS_IN
+LANG_ENGLISH        "Round begins in..."
+
+REFERENCE           FABLESERVERS_WAITING_FOR_PLAYERS
+LANG_ENGLISH        "Waiting for more players to start round..."
+
+REFERENCE           TRICKSHOT_OPTIONS
+LANG_ENGLISH        "Trickshot Options"
+
+REFERENCE           TRICKSHOT_OPTIONS_CAPS
+LANG_ENGLISH        "TRICKSHOT OPTIONS"
+
+REFERENCE           TRICKSHOT_OPTIONS_EXECKEY
+LANG_ENGLISH        "Trickshot Options (^3T^7)"
+
+REFERENCE           FABLESERVERS_OPTIONS
+LANG_ENGLISH        "FableServers Options"
+
+REFERENCE           FABLESERVERS_OPTIONS_CAPS
+LANG_ENGLISH        "FABLESERVERS OPTIONS"
+
+REFERENCE           FABLESERVERS_OPTIONS_EXECKEY
+LANG_ENGLISH        "FableServers Options (^3T^7)"
+
+REFERENCE           IW4X_OPTIONS
+LANG_ENGLISH        "iW4x Options"
+
+REFERENCE           IW4X_OPTIONS_CAPS
+LANG_ENGLISH        "IW4X OPTIONS"
+
+REFERENCE           IW4X_OPTIONS_EXECKEY
+LANG_ENGLISH        "iW4x Options (^3O^7)"
+
+REFERENCE           MINI_MAP
+LANG_ENGLISH        "Open Mini Map"
+
+REFERENCE           MINI_MAP_EXECKEY
+LANG_ENGLISH        "Open Mini Map (^3M^7)"
+
+REFERENCE           MINI_MAP_CAPS
+LANG_ENGLISH        "OPEN MINI MAP"
+
+REFERENCE           MOD_MENU
+LANG_ENGLISH        "Mod Menu"
+
+REFERENCE           MOD_MENU_EXECKEY
+LANG_ENGLISH        "Mod Menu (^3F^7)"
+
+REFERENCE           PLATFORM_MAPLIST_CAPS
+LANG_ENGLISH        "MAPLIST ^3F"
+
+REFERENCE           MPUI_CHOOSE_CLASS_LOWER_EXECKEY
+LANG_ENGLISH        "Change Class (^3C^7)"
+
+REFERENCE           MOD_MENU_CAPS
+LANG_ENGLISH        "MOD MENU"
+
+REFERENCE           CLASS_EDITOR
+LANG_ENGLISH        "Class Editor"
+
+REFERENCE           CLASS_EDITOR_CAPS
+LANG_ENGLISH        "CLASS EDITOR"
+
+REFERENCE           CLASS_EDITOR_EXECKEY
+LANG_ENGLISH        "Class Editor (^3E^7)"
+
+REFERENCE           MPUI_CHOOSE_CLASS_LOWER
+LANG_ENGLISH        "Change Class"
+
+REFERENCE           PRESET_CLASSES_LOWER
+LANG_ENGLISH        "Preset Classes"
+
+REFERENCE           PRESET_CLASSES_CAPS
+LANG_ENGLISH        "PRESET CLASSES"
+
+REFERENCE           MAIN_MODS
+LANG_ENGLISH        "Main Mods"
+
+REFERENCE           AFTERHIT_MENU
+LANG_ENGLISH        "Afterhit Menu"
+
+REFERENCE           VIP_MENU
+LANG_ENGLISH        "VIP Menu"
+
+REFERENCE           WEAPONS_MENU
+LANG_ENGLISH        "Weapons Menu"
+
+REFERENCE           HOST_MENU
+LANG_ENGLISH        "Host Menu"
+
+REFERENCE           SND_MENU
+LANG_ENGLISH        "S&D Menu"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "Suicide"
+
+REFERENCE           SUICIDE_EXECKEY
+LANG_ENGLISH        "Suicide (^3S^7)"
+
+REFERENCE           SUICIDE_CAPS
+LANG_ENGLISH        "SUICIDE"
+
+REFERENCE           TRICKSHOTTERS
+LANG_ENGLISH        "^2Trickshotters"
+
+REFERENCE           TRICKSHOTTERS_CAPS
+LANG_ENGLISH        "^2TRICKSHOTTERS"
+
+REFERENCE           BOTS
+LANG_ENGLISH        "^1Bots"
+
+REFERENCE           BOTS_CAPS
+LANG_ENGLISH        "^1Bots"
+
+REFERENCE			OBJECTIVES_GUN
+LANG_ENGLISH		"Be the first to dominate with every gun."
+
+REFERENCE			OBJECTIVES_GUN_SCORE
+LANG_ENGLISH		"Be the first to dominate with every gun.  First player to &&1 wins."
+
+REFERENCE			OBJECTIVES_GUN_HINT
+LANG_ENGLISH		"Be the first to dominate with every gun."
+
+REFERENCE           DESC_DSR50
+LANG_ENGLISH        "Bolt action, fan favorite from Call of Duty: Black Ops 2."
+
+REFERENCE           WEAPON_DSR50
+LANG_ENGLISH        "DSR-50"
+
+REFERENCE           WEAPON_DSR50_IRONSIGHTS
+LANG_ENGLISH        "DSR-50 Ironsights"
+
+REFERENCE           DESC_L96A1
+LANG_ENGLISH        "Bolt action, fan favorite from Call of Duty: Black Ops 1."
+
+REFERENCE           WEAPON_L96A1
+LANG_ENGLISH        "L96A1"
+
+REFERENCE           WEAPON_L96A1_EXTENDEDMAGS
+LANG_ENGLISH        "L96A1 Extended Mags"
+
+REFERENCE           WEAPON_L96A1_VZOOM
+LANG_ENGLISH        "L96A1 Variable Zoom"
+
+REFERENCE           WEAPON_L96A1_ACOG
+LANG_ENGLISH        "L96A1 Acog"
+
+REFERENCE           WEAPON_REMINGTON700
+LANG_ENGLISH        "R700"
+
+REFERENCE           WEAPON_REMINGTON700_ACOG
+LANG_ENGLISH        "R700 Acog"
+
+
+REFERENCE           WEAPON_REMINGTON700_EXTENDEDMAGS
+LANG_ENGLISH        "R700 Extended Mags"
+
+REFERENCE           WEAPON_TOMAHAWK
+LANG_ENGLISH        "Tomahawk"
+
+REFERENCE           WEAPON_BALLISTIC_KNIFE
+LANG_ENGLISH        "Ballistic Knife"
+
+REFERENCE           DESC_BALLISTIC_KNIFE
+LANG_ENGLISH        "Spring-action knife launcher. Increases melee speed and can fire the blade as a projectile. Ported from Call of Duty: Black Ops 1."
+
+REFERENCE           DESC_BOW
+LANG_ENGLISH        "Crossbow capable of penetrating walls and surfaces. Ported from Call of Duty: Online."
+
+REFERENCE           WEAPON_BOW
+LANG_ENGLISH        "Crossbow"
+
+REFERENCE           DESC_TUNDRA
+LANG_ENGLISH        "Bolt-action sniper rifle. High damage with moderate sway. 1-shot kill to the head, upper-chest, and shoulders. Ported from Call of Duty: Black Ops Cold War."
+//LANG_ENGLISH        "Bolt action, fan favorite from Call of Duty: Black Ops Cold War."
+
+REFERENCE           WEAPON_TUNDRA
+LANG_ENGLISH        "LW3 Tundra"
+
+REFERENCE           WEAPON_TOMAHAWK
+LANG_ENGLISH        "Tomahawk"
+
+REFERENCE           WEAPON_CHEYTAC_AKIMBO
+LANG_ENGLISH        "Intervention Akimbo"
+
+REFERENCE           WEAPON_ZOMBIEHANDS
+LANG_ENGLISH        "BRAAAAINS.."
+
+REFERENCE           DESC_SHOCKCHARGE
+LANG_ENGLISH        "Electrocutes and stuns nearby enemies. Ported from Call of Duty: Black Ops 2."
+
+REFERENCE           WEAPON_SHOCKCHARGE
+LANG_ENGLISH        "Shock Charge"
+
+REFERENCE           WEAPON_GLOWSTICK
+LANG_ENGLISH        "Glowstick"
+
+REFERENCE           WEAPON_FLARE_INSTANT_PLANT
+LANG_ENGLISH        "Instant Tac"
+
+REFERENCE           WEAPON_FLARE_DEFAULT
+LANG_ENGLISH        "Tactical Insertion"
+
+REFERENCE           WEAPON_RAYGUN
+LANG_ENGLISH        "RayGun"
+
+REFERENCE           WEAPON_RAYGUN_MKII
+LANG_ENGLISH        "RayGun MK-II"
+
+REFERENCE           SPLASHES_HOLYSHIT
+LANG_ENGLISH        "HOLY SHIT!"
+
+REFERENCE           SPLASHES_HOLYSHIT_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           SPLASHES_LUDICROUSKILL
+LANG_ENGLISH        "Ludicrous-Kill!"
+
+REFERENCE           SPLASHES_LUDICROUSKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           SPLASHES_MEGAKILL
+LANG_ENGLISH        "Mega-Kill!"
+
+REFERENCE           SPLASHES_MEGAKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           SPLASHES_MONSTERKILL
+LANG_ENGLISH        "Monster Kill!"
+
+REFERENCE           SPLASHES_MONSTERKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           SPLASHES_ULTRAKILL
+LANG_ENGLISH        "Ultra-Kill!"
+
+REFERENCE           SPLASHES_ULTRAKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           MPUI_DESC_MAP_HIGHRISE_MINI
+LANG_ENGLISH        "Highrise, but mini..."
+
+REFERENCE           MENU_CHANGELOG_CAPS_COLORED
+LANG_ENGLISH        "^:CHANGELOG"
+
+REFERENCE           FABLESERVERS_MAPS
+LANG_ENGLISH        "@FableServers: Map Edits"
+
+REFERENCE           DESC_FABLESERVERS_MAPS
+LANG_ENGLISH        "Custom edited versions of iW4x Maps"
+
+REFERENCE           PREVIOUS_LOWER
+LANG_ENGLISH        "Previous [^3A^7]
+
+REFERENCE           NEXT_LOWER
+LANG_ENGLISH        "Next [^3D^7]
+
+ENDMARKER
+
+
