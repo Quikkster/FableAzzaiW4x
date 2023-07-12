@@ -3,7 +3,7 @@
 
 If you are having trouble please read all of the documentation i provided, it may be a lot but trust me it is worth it<br />
 
-If this still didn't help, message [ Quikkster#3200 ] on Discord * or you can join the server to be able to message us directly ( http://discord.io/quikkster )<br />
+If this still didn't help, message [ @quikkster ] on Discord * or you can join the server to be able to message us directly ( http://discord.io/quikkster )<br />
 
 
 ## MOD TEAM:
@@ -12,13 +12,13 @@ Lead Developer, Owner: `Fable`
 
 [@FableServers](https://twitter.com/FableServers) on Twitter<br />
 [FableServers Discord](http://discord.io/FableServers) <br />
-Fable#1353 on Discord<br />
+@itsfable on Discord<br />
 
 Co-Developer, Custom Menus, Custom Materials, Custom Sounds, Weapon Porting & Some Code : `Quikkster`<br />
 [@QKSTR](https://twitter.com/QKSTR) on Twitter<br />
 [Quikkster's Squad Discord](http://discord.io/Quikkster)<br />
 [YouTube](YouTube.com/Quikkster)<br />
-Quikkster#3200 on Discord<br />
+@quikkster on Discord<br />
 
 
 Full disclosure, used some source / small elements from [Auzziemod](https://twitter.com/71stRecon), [ARZ](https://discord.com/invite/ARZmod), [Shake](https://twitter.com/mstrmatrix) & [SnR](https://twitter.com/SnRServers), much love to all of them<br />
@@ -26,7 +26,7 @@ Full disclosure, used some source / small elements from [Auzziemod](https://twit
 Shoutout [@Dojah](https://twitter.com/DojahServers) for getting me into modding in the first place lol.
 <br />
 
-# `Azza Trickshotting ~ FableAzza `<br />
+# `Azza Trickshotting ~ FableAzza`<br />
 ## WE HIGHLY RECOMMEND DOWNLOADING [GITHUB DESKTOP](https://desktop.github.com) AND CLONING THIS REPOSITORY USING [THIS LINK](https://github.com/Quikkster/FableAzza.git) BECAUSE THIS MOD IS UPDATED DAILY (MULTIPLE TIMES A DAY EVEN) - THIS WILL ALLOW YOU TO AUTOMATICALLY RECIEVE EACH AND EVERY UPDATE WITH THE SIMPLE CLICK OF ONE BUTTON IN LIVE TIME AS SOON AS WE SEND THE UPDATES OUT! <br />
 
 # `FableAzza: Mod Installation Guide`
