@@ -59,6 +59,13 @@ _**(not recommended if you want to stay up to date with this mod - we update DAI
 * execs the server config file which sets up all the gamemode settings. (scorelimit, timelimit, bounces, elevators, etc.)
 * **BUT WILL THEN** skip the entire menu / private match setup process and put you straight into a match on the map you chose. (good for if you already have classes set up and want to skip all the extra menu navigation)<br />
 
+# `FableAzza: Installing Custom Maps`
+## iW4x:
+* All of the custom maps we currently use on our servers can be downloaded [HERE](https://mega.nz/folder/q8RzyJQB#Q3BXbUSk5gbtY3Ua2hhGdQ)
+* These are not required to play, however our mapvote system includes them, so if you let a custom map you don't have installed win, or don't end the game before it rotates to one, this will crash your game. 
+* Once downloaded (individual maps, or all of them), create a folder in your MW2/iW4x directory called `usermaps`
+* Any custom maps you download should be placed within this folder, within their own folder which should always have the maps name as its name (a.k.a. don't remove the .ff and .iwd files out of the mapname folder, and don't rename the mapname folders either..)
+
 # `How to Connect to Friends`
 These methods may not work, as some people just cannot connect to eachother, if that is the case find a host everyone can connect to <br />
 ## iW4x: <br />
