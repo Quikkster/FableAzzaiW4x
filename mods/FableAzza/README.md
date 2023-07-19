@@ -52,7 +52,10 @@ _**(not recommended if you want to stay up to date with this mod - we update DAI
 * execs the server config file which sets up all the gamemode settings. (scorelimit, timelimit, bounces, elevators, etc.)<br />
 
 ### `!instant start azza.bat` 
-* opens up a terminal cmd box that allows you to enter a mapname of your choice or press ENTER to enter in Highrise as a default
+* opens up a terminal cmd box that allows you to enter specific settings before it boots up the game
+`MAPNAME: a mapname of your choice or press ENTER to enter in Highrise as a default`
+`EB Strength: enter a value 0-8 for the EB strength of your choice or press ENTER to enter in 150 as a default`
+`EB Delay: enter a value 0-6 for the EB delay time of your choice or press ENTER to enter in 0 (off) as a default`
 * opens up iW4x
 * skip the iW4x intro cutscene
 * auto launches the mod
@@ -134,18 +137,13 @@ These methods may not work, as some people just cannot connect to eachother, if 
 * Bullet penetration and range are fully maxed out (with wallbang everything) <br />
 * Hitting while on ground is allowed in Search & Destroy, but only past 12 meters. <br />
 ## Custom Weapons
-* Vector = DSR-50<br />
-* Scar = L96A1<br />
-
-* USP .45 Akimbo + Silencer = Akimbo Interventions<br />
-* M9 FMJ + Tactical Knife = Raygun<br />
-* PP2000 = Ballistic Knife<br />
-
-* UMP-45 FMJ + Silencer = BO2 Zombie Hands<br />
-* UZI + Thermal = BO1 Campaign Hatchet<br />
-
-* Smoke Grenade = BO2 Shock Charge<br />
-* throwingknife_rhand_mp = BO2 Tomahawk<br />
+* DSR-50
+* BO2 Combat Knife
+## Custom Animation Weapons
+* RPG-7 v2
+* Instant Plant Tactical Insertion
+* Glowstick
+* Instant Plant Glowstick
 ## Changed Weapon Mechanics
 * Riot Shields can be shot through by default and can be toggled on and off with the dvar "riot_shields_can_be_shot_through" [0 or 1] <br />
 * Tactical Insertion has a 50% chance to be a Glowstick instead of the default Flare model. <br />
